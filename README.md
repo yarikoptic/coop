@@ -38,4 +38,7 @@ See [pics/small](pics/small/) for more photos
 ![20190818_111452.jpg](pics/small/20190818_111452.jpg)
 ![20190818_111501_HDR.jpg](pics/small/20190818_111501_HDR.jpg)
 ![20190824_111838.jpg](pics/small/20190824_111838.jpg)
+![20220829_090001260_HDR.jpg](pics/small/20220829_090001260_HDR.jpg)
+![20221105_142215005.jpg](pics/small/20221105_142215005.jpg)
+![20221225_104504314.jpg](pics/small/20221225_104504314.jpg)
 </details>
