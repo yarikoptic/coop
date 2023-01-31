@@ -7,10 +7,18 @@ Just some materials (photos, and sketchup framing designs).
 ![Almost done1](pics/small/20190721_173802.jpg)
 ![Almost done1](pics/small/20190721_173818.jpg)
 
-See [pics/small](pics/small/) for more photos
+with a visitor
+
+![20220829_090001260_HDR.jpg](pics/small/20220829_090001260_HDR.jpg)
+
+and "winter-proofing" on
+
+![20221225_104504314.jpg](pics/small/20221225_104504314.jpg)
+
+See [pics/small](pics/small/) for more photos,
 
 <details>
-<summary>Or expand here to view them all</summary>
+<summary>or expand here to view them all</summary>
 
 ![20190707_204814.jpg](pics/small/20190707_204814.jpg)
 ![20190711_092747.jpg](pics/small/20190711_092747.jpg)
